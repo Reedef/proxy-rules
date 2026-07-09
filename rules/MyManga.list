@@ -1,0 +1,21 @@
+# 个人自定义 - 漫画站点(走 📚 漫画 组)
+# 语法同 MyProxy.list。漫画站多为日站, 默认走日本节点。
+# 在下面按需增删即可，每行一条。
+
+# 通用关键字
+DOMAIN-KEYWORD,manga
+DOMAIN-KEYWORD,comic
+
+# 常见漫画站
+DOMAIN-SUFFIX,mangadex.org
+DOMAIN-SUFFIX,mangaplus.shueisha.co.jp
+DOMAIN-SUFFIX,shonenjumpplus.com
+DOMAIN-SUFFIX,comic-walker.com
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,fanbox.cc
+DOMAIN-SUFFIX,booklive.jp
+DOMAIN-SUFFIX,ebookjapan.yahoo.co.jp
+DOMAIN-SUFFIX,comico.jp
+DOMAIN-SUFFIX,bato.to
+DOMAIN-SUFFIX,manganato.com
+DOMAIN-SUFFIX,mangakakalot.com

@@ -4,3 +4,10 @@
 
 # 示例(可删除):
 # DOMAIN-SUFFIX,mycompany-internal.com
+
+DOMAIN-KEYWORD,fliggy
+DOMAIN-KEYWORD,alipay
+DOMAIN-KEYWORD,antgroup-inc
+DOMAIN-KEYWORD,antfin
+DOMAIN-KEYWORD,alibaba
+DOMAIN-KEYWORD,fliggy
