@@ -1,0 +1,6 @@
+# 个人自定义 - 强制直连的域名/IP
+# 语法同 MyProxy.list。用于把某些被官方规则误判为代理的站点拉回直连。
+# 在下面按需增删即可，每行一条。
+
+# 示例(可删除):
+# DOMAIN-SUFFIX,mycompany-internal.com

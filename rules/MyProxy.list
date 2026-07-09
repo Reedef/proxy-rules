@@ -1,0 +1,10 @@
+# 个人自定义 - 强制走代理的域名/IP
+# 语法说明:
+#   DOMAIN-SUFFIX,example.com   匹配 example.com 及其所有子域名
+#   DOMAIN,www.example.com      精确匹配这一个域名
+#   DOMAIN-KEYWORD,google       域名中包含 google 关键字即匹配
+#   IP-CIDR,1.2.3.0/24,no-resolve  匹配 IP 段(no-resolve 表示不做 DNS 解析)
+# 在下面按需增删即可，每行一条。
+
+# 示例(可删除):
+# DOMAIN-SUFFIX,githubusercontent.com
