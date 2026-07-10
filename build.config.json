@@ -5,7 +5,11 @@
   "profiles": {
     "my": {
       "output": "my.ini",
-      "parts": ["header", "rules-personal", "rules-official", "groups-region", "groups-business", "footer"]
+      "parts": ["header", "rules-personal", "groups-lead", "manga", "groups-region", "groups-business", "rules-official", "footer"]
+    },
+    "outer": {
+      "output": "outer.ini",
+      "parts": ["header", "rules-personal", "groups-lead", "groups-region", "groups-business", "rules-official", "footer"]
     }
   }
 }
