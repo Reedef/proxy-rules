@@ -1,12 +1,14 @@
 # 个人自定义 - 漫画站点(走 📚 漫画 组)
-# 语法同 MyProxy.list。漫画站多为日站, 默认走日本节点。
 # 在下面按需增删即可，每行一条。
 
 # 通用关键字
 DOMAIN-KEYWORD,manga
 DOMAIN-KEYWORD,comic
 
-# 常见漫画站
-DOMAIN-SUFFIX,jjmhw2.tom
-DOMAIN-SUFFIX,hanman18.tom
+# 漫画站
+DOMAIN-SUFFIX,happymh.com
+DOMAIN-SUFFIX,8comic.com
+DOMAIN-SUFFIX,jjmhw2.top
+DOMAIN-SUFFIX,hanman18.com
+DOMAIN-SUFFIX,18mh.org
 
